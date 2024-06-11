@@ -55,4 +55,6 @@ Ashish :
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-velhal-4178b7230/)
 
-Thank you for visiting the page!
+### Thanks
+
+If you like this portfolio  don't forget give it a ⭐ 
